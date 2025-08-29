@@ -39,7 +39,7 @@ fylo-data-storage/
 ## 🎯 How to Use
 
 1. Clone the repository:
-   git clone https://github.com/your-username/fylo-data-storage.git
+   git clone https://github.com/DamaniSahu/Fylo-Data-Stroage-Component.git
 2. Open index.html in your browser.
 
 ---
