@@ -44,5 +44,5 @@ fylo-data-storage/
 
 ---
 
-## 🔗 Live Demo:
+## 🔗 Live Demo: https://fylo-data-stroage-comoponent.netlify.app/
 
